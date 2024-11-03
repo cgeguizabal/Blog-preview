@@ -109,6 +109,12 @@ header h1:hover {
   max-width: 100%;
 }
 
+.attribution {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
 @media (max-width: 376px) {
   .container {
     max-width: 70%;
